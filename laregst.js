@@ -9,3 +9,13 @@ if (a > b && a > c) {
 } else {
   console.log("c is the largest number");
 }
+
+// emaple 2
+let x = 24;
+let y = 12;
+let z = 36;
+
+const largestNumber = Math.max(x, y, z);
+console.log("The largest number is:", largestNumber);
+
+// example 3
